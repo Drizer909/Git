@@ -1,6 +1,6 @@
 # Git is free and open source software for distributed version control. Official [website](https://git-scm.com/)
 
-## Local Resources
+
 
 <h3 align="center">Resources to learn more about Open Source, Git, and GitHub. </h3>
 
